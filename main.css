@@ -1,0 +1,32 @@
+
+.container{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+}
+
+.input{
+    width: 280px;
+    height: 60px;
+}
+
+.button{
+    width: 70px;
+    height: 70px;
+    
+}
+.button_hi{
+        width: 70px;
+        height: 210px;
+    }
+
+.column{
+    display: flex;
+    flex-direction: column;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+}
